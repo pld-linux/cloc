@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 Summary:	CLOC - Count Lines of Code
 Name:		cloc
 Version:	1.84
